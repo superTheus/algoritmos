@@ -2,7 +2,7 @@
 
 int main()
 {
-    int list[1000], i, number, limit = 1000, start = 0, middle = 0, find = 0, time = 0, attempt = 0;
+    int list[1000], i, number, limit = 1000, start = 0, middle = 0, find = 0, attempt = 0;
 
     printf("Criando lista com numeros ramdomicos...\n");
     for (i = 0; i < 1000; i++)
